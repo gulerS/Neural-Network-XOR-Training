@@ -41,3 +41,7 @@ Error Function : least mean square, LMS<br />
 
 <h3>Animated XOR training in Graphical Interface  :</h3>
 <img src="https://cloud.githubusercontent.com/assets/2998685/21938814/90f7bbde-d9c5-11e6-8f9f-024d7434e595.png"></img>
+
+
+
+You can press F12 to switch to the light theme.
