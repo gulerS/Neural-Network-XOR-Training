@@ -327,7 +327,7 @@ namespace Test2
 
         }
 
-
+         
 
         private float Aktivasyon(float x) // Sigmoid fonk.
         {
